@@ -1,0 +1,16 @@
+name: "Rust 中国社区"
+permalink: /:year/:month/:day/:title
+future:      true
+host:        0.0.0.0
+port:        4000
+baseurl:     
+url:         http://rust-china.org
+#url:  http://127.0.0.1:4000
+paginate: 10
+paginate_path: page:num
+
+gems:
+- jekyll-mentions
+- jemoji
+- jekyll-redirect-from
+- jekyll-sitemap
