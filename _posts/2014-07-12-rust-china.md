@@ -12,7 +12,7 @@ categories: ""
 
 - 主页： [http://rust-china.org](http://rust-china.org)
 - @Github: [RustChina@github](https://github.com/RustChina/)
-- @微博: [RustLang](http://weibo/rustlang/)
+- @微博: [RustLang](http://weibo.com/rustlang/)
 - 讨论: [Github's issues](https://github.com/RustChina/rustchina.github.io/issues)
 
 
